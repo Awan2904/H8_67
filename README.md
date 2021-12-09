@@ -1,0 +1,4 @@
+# H8_67
+PELATIHAN PYTHON HACTIV8 - BRI AGRO \ 
+NAMA: Indriawan Afriliana \ 
+BATCH: 067 
